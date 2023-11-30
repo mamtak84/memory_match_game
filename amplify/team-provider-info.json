@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-memorymatchgame-dev-150627-authRole",
+      "UnauthRoleArn": "arn:aws:iam::158679836899:role/amplify-memorymatchgame-dev-150627-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::158679836899:role/amplify-memorymatchgame-dev-150627-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-memorymatchgame-dev-150627-deployment",
+      "UnauthRoleName": "amplify-memorymatchgame-dev-150627-unauthRole",
+      "StackName": "amplify-memorymatchgame-dev-150627",
+      "StackId": "arn:aws:cloudformation:us-west-2:158679836899:stack/amplify-memorymatchgame-dev-150627/183b75a0-8fd5-11ee-b950-0a7a45ea9ff3",
+      "AmplifyAppId": "d3evr6v3d4w75o"
+    },
+    "categories": {
+      "auth": {
+        "memorymatchgame20dc99c3": {}
+      },
+      "api": {
+        "memorymatchgame": {}
+      }
+    }
+  }
+}
